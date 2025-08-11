@@ -1,0 +1,11 @@
+/*
+	**	inside libraries the core file will look into the URLs
+		and pull out the necessary class,method and parameters
+		and create an array from them.
+
+	**	database file is the pdo file that will contain SELECT,INSERT,UPDATE,DElETE.
+		Model will interact with this file.
+
+	**	controller file will essentially interact with model and views file and 
+		every other controller will extend this file
+*/

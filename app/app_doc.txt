@@ -1,0 +1,25 @@
+/*
+	**	all the mvc structure will be in this folder
+
+	**	libraries is the heart of our application
+
+	**	controllers folder will contain controller classes that will interact
+		with databases and views.
+
+	**	views will contain the user view/interface which the user will interact with
+
+	**	models will contails all the database files and structures
+
+	** 	helpsers folder will contains classes of small functions that will cause alerts and
+		redirect pages.
+
+	** 	We also need a config folder where the database parameters are going to go
+
+	**	A bootstap file is needed as all the necessary files will be loaded by this file
+
+	**	.htaccess file is created to restrict access to the app file directly
+
+	** spl_autoload_register(funtion($className){}); --> this funtion detects the objects
+		declared of a class and searches them automatically and includes the necessary files.
+
+*/

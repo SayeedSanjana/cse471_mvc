@@ -1,0 +1,8 @@
+/*
+	in config file we want to put the links in variables so that 
+	changing in one place dynamically changes links in other pages
+
+	__FILE__ this magic constant gives us the path to config.php
+
+	dirname() --> this gives the name of the parent directory the file is in
+*/

@@ -1,0 +1,13 @@
+/*
+	**	public directory is the front of our application where
+		the main index.php file will go.
+
+	** css file will contain all the style sheets
+
+	** js file will contain all the js modifications
+
+	** img file will contain all the public images of the website
+
+	** htaccess on this directory will route file directly to index.php in public
+	
+*/
